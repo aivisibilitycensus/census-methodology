@@ -11,10 +11,10 @@ Newest first. Canonical version: https://aivisibilitycensus.com/changelog/
 - Edition 1: five sectors, 40 questions, three collection dates (27 November, 1 December and 4 December 2026), fixed before any data was collected. Listed on the [editions page](https://aivisibilitycensus.com/editions/).
 - Status: draft.
 
-## 30 October 2026: Census 100 cadence and conflicts of interest
+## 30 October 2026: Census 100 cadence and disclosure
 
 - The Census 100 is published quarterly. Editions are labeled by quarter.
-- A category where anyone publishing the Census has a working link to a listed brand carries a notice at the top of its page, fixes and publishes its questions and brand list before collection, and has its coded answers checked by someone with no link to that brand.
+- Every brand is treated under the same rules. If anyone who publishes the Census works for a brand in a category, that category's page says so in one line.
 - Status: draft.
 
 ## 30 October 2026: Census 100 coding and scope

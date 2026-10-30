@@ -73,7 +73,7 @@ Each category has a fixed set of buyer questions, asked on ChatGPT, Perplexity, 
 
 To be ranked, a brand must appear in at least three answers, and its website must load for crawlers and allow Googlebot and Bingbot in the same month's Census Index. A brand that would otherwise rank but fails this entry bar is shown as not eligible, with the reason, rather than left out. Rankings follow the stable rankings rule above: each brand's share is shown with a 90% range from resampling the questions, brands whose ranges overlap are marked as level, and a category is published only when rankings from separate dates agree at a rank correlation of 0.8 or higher. Up to 10 brands are listed per category. The list launches with one category, so it starts with up to 10 brands, and the 100 builds up as categories are added. The Census 100 is published quarterly, and each edition is labeled by quarter, for example Q4 2026.
 
-Brand names are matched as whole words, and names that are also everyday words are checked by hand. No brand pays to be listed, and there is no way to buy a place. If anyone who publishes the Census has a working link to a brand in a category, that category says so at the top of its page, its questions and brand list are fixed and published before any answers are collected, and its coded answers are checked by someone with no link to that brand.
+Brand names are matched as whole words, and names that are also everyday words are checked by hand. No brand pays to be listed, and there is no way to buy a place. Every brand is treated the same way under the same rules. If anyone who publishes the Census works for a brand in a category, that category's page says so in one line.
 
 ## Limits
 
