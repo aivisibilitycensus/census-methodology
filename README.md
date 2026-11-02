@@ -1,6 +1,6 @@
 # AI Visibility Census: methodology and question sets
 
-The [AI Visibility Census](https://aivisibilitycensus.com) measures which firms AI answers name when buyers ask for recommendations, and which sources those answers cite. Each edition asks a fixed, published set of buyer questions across six AI engines on set dates.
+The [AI Visibility Census](https://aivisibilitycensus.com) measures which firms AI answers name when buyers ask for recommendations, and which sources those answers cite. Each edition asks a fixed, published set of buyer questions across five AI engines on set dates.
 
 This repository holds the parts anyone needs to check or repeat our work:
 
