@@ -17,6 +17,14 @@ The website is the primary source. If this repository and the website ever disag
 
 Methodology draft published 29 October 2026. It will be finalized and dated before Edition 1, which covers professional and specialist services firms in Ireland.
 
+## Archived datasets
+
+Census datasets that have a permanent DOI on Zenodo:
+
+| Dataset | DOI | Page |
+|---|---|---|
+| New site crawl and indexing statistics (v1, 3 November 2026) | [10.5281/zenodo.23933369](https://doi.org/10.5281/zenodo.23933369) | [aivisibilitycensus.com](https://aivisibilitycensus.com/new-site-crawl-indexing-statistics/) |
+
 ## Reusing this material
 
 Everything here is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). You can copy, adapt and build on it, including commercially, if you credit the AI Visibility Census, link to the license and say if you changed anything. Suggested credit:
